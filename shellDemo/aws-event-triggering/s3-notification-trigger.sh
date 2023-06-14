@@ -1,7 +1,7 @@
 ############################
-# author: dennis
-# date: 2023/06/14
-# description: a shell to build up even trigger for S3 bucket
+# Author: dennis
+# Date: 2023/06/14
+# Description: a shell to build up even trigger for S3 bucket
 ############################
 
 

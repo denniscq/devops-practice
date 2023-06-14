@@ -1,11 +1,9 @@
 #!/bin/bash
 
 ####################
-# author: dennis
-# date: 13th-June
-#
-# version: v1
-#
+# Author: dennis
+# Date: 13th-June
+# Version: v1
 # this script will report the AWS resource usage
 ####################
 
